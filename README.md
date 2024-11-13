@@ -5,3 +5,6 @@ Redux is an open-source JavaScript library for managing the state of an applicat
 
 ## Toolkit -
 The official opinionated, batteries-included tool set for efficient Redux development
+
+## Store -
+A store is a central place where the state of our application is stored and it can be created using the configureStore function, and it holds the entire state tree of our application.
