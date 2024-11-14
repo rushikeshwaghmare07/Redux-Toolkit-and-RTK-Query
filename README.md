@@ -8,3 +8,16 @@ The official opinionated, batteries-included tool set for efficient Redux develo
 
 ## Store -
 A store is a central place where the state of our application is stored and it can be created using the configureStore function, and it holds the entire state tree of our application.
+
+**Note -** A store is not a "class". It’s just an object with a few methods on it. To create it, pass your root reducing function to createStore.
+
+## Store Methods
+
+- getState()
+
+- dispatch(action)
+
+- subscribe(listener)
+
+- replaceReducer(nextReducer)
+
