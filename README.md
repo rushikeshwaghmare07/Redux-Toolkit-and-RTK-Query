@@ -21,3 +21,7 @@ A store is a central place where the state of our application is stored and it c
 
 - replaceReducer(nextReducer)
 
+## What is Slice ?
+A slice is a **piece of store state** and the corresponding reducer logic to update that state. Slice are a way to organize our Redux store by breaking it down into smaller, more manageable parts.
+
+**Slice Analogy -** Imagine you have a big cake, and you want ot cut it into smaller, more manageable pieces. Each smaller piece is like a "slice" of the cake. In the context redux toolkit a "slice" is like a smaller part of your application's overall state and the instructions on how to change or update that specific part.
