@@ -30,3 +30,6 @@ A slice is a **piece of store state** and the corresponding reducer logic to upd
 - Reducers are like the instructions on what to do with slice of the cake.
 
 - They define how the information in a particular slice can be changed or updated.
+
+## useSelector() Hook ?
+- useSelector hook allows us to read data form the redux store.
