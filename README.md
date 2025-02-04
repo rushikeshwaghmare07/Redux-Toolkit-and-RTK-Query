@@ -38,3 +38,6 @@ A slice is a **piece of store state** and the corresponding reducer logic to upd
 - The dispatch function is used to send actions to the store, triggering updates to the application state.
 
 - In simpler terms, it lets you change the state in your Redux store form within your React components.
+
+## Redux Toolkit Query
+- Redux Toolkit Query (RTK) is specifically designed to simplify data fetching, caching and state management for API calls in a React and Redux application.
