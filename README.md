@@ -33,3 +33,8 @@ A slice is a **piece of store state** and the corresponding reducer logic to upd
 
 ## useSelector() Hook ?
 - useSelector hook allows us to read data form the redux store.
+
+## useDispatch() Hook ?
+- The dispatch function is used to send actions to the store, triggering updates to the application state.
+
+- In simpler terms, it lets you change the state in your Redux store form within your React components.
